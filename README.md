@@ -18,6 +18,8 @@ Sub-Region Performance – Monitored business performance by geographical areas.
 ✅ KPI & Metrics Tracking – Performance analysis with key indicators.
 ✅ UI/UX Design – Designed an intuitive and user-friendly interface.
 
+Live Dashboard Link :- https://app.powerbi.com/view?r=eyJrIjoiZTMzMDg2ODYtZTQ0OS00M2QwLWE2NWQtNmEzMDE5MDEyMTdmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=9baf4571dea64be75d2e
+
 🙌 Acknowledgments:
 A huge thank you to Ashish Babaria for the invaluable insights on dashboard design, which transformed my approach to visualization and storytelling. Grateful to Dhaval Patel, Hemanand Vadivel, and the Codebasics team for an exceptional Power BI course that made this learning journey possible. 🌟
 
